@@ -1,0 +1,36 @@
+<vector android:alpha="0.98" android:height="218dp"
+    android:viewportHeight="218" android:viewportWidth="193"
+    android:width="193dp" xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillAlpha="0.8" android:pathData="M91,83m-83,0a83,83 0,1 1,166 0a83,83 0,1 1,-166 0">
+        <aapt:attr name="android:fillColor">
+            <gradient android:endX="51.5" android:endY="179.5"
+                android:startX="150" android:startY="28.9999" android:type="linear">
+                <item android:color="#FF94FF94" android:offset="0.00266183"/>
+                <item android:color="#FFC6FFC6" android:offset="0.697917"/>
+                <item android:color="#FFB3FFB3" android:offset="0.994792"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#00000000"
+        android:pathData="M154,84.5C154,39.993 119.703,4 77.5,4C35.297,4 1,39.993 1,84.5C1,129.007 35.297,165 77.5,165C119.703,165 154,129.007 154,84.5Z"
+        android:strokeAlpha="0.7" android:strokeWidth="2">
+        <aapt:attr name="android:strokeColor">
+            <gradient android:endX="114.634" android:endY="40.1309"
+                android:startX="77.5" android:startY="166" android:type="linear">
+                <item android:color="#FFB3B1B1" android:offset="0"/>
+                <item android:color="#00000000" android:offset="0.980563"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#00000000"
+        android:pathData="M136.492,179.454C106.508,199.932 66.494,193.381 47.088,164.967C27.683,136.554 36.138,96.899 66.122,76.42C96.105,55.942 136.119,62.493 155.525,90.907C174.931,119.32 166.476,158.976 136.492,179.454Z"
+        android:strokeAlpha="0.6" android:strokeWidth="2">
+        <aapt:attr name="android:strokeColor">
+            <gradient android:endX="88.4698" android:endY="173.484"
+                android:startX="156.351" android:startY="90.3427" android:type="linear">
+                <item android:color="#FFB3B1B1" android:offset="0"/>
+                <item android:color="#00000000" android:offset="0.980563"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
